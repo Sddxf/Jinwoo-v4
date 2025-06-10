@@ -14,7 +14,7 @@
     "OWNERS": {
       "description": "owner number",
       "required": true,
-      "value": ""
+      "value": "255652398614"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
@@ -29,17 +29,17 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "Qq8HzKzb#ud9P8SuWhutPu0GfMpe9bSYZ_tDTrpDpzPIeN4rwHB4"
     },
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": ""
+      "value": "public"
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "."
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
@@ -54,7 +54,7 @@
     "statusview": {
       "description": "make it true if you want bot to view status",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
@@ -84,12 +84,12 @@
     "TIME_ZONE": {
       "description": "your time zone",
       "required": true,
-      "value": "Africa/Nairobi"
+      "value": "Africa/Tanzania"
     },
     "OWNER_NAME": {
       "description": "your owner Name",
       "required": false,
-      "value": ""
+      "value": "Nicolaus Daniel 🔥"
     },
      "REMOVEBG_KEY": {
       "description": "your Remove background api key",
